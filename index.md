@@ -77,7 +77,7 @@ ___________________________________________________________
 
 > “Genius is one percent inspiration and 99 percent perspiration,” said Thomas Edison.
 
-a
+
 
 ```
 In one world, effort is a bad thing. It like failure, means you’re not smart or talented. 
