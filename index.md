@@ -54,6 +54,5 @@ To create a blockquote, add a > in front of a paragraph.
 
 ### Images
 
- Format:(!)[---](url)
 
 ![coding](https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-leverage-of-coding.jpg)
