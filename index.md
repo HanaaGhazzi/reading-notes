@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Markdown
 
-You can use the [editor on GitHub](https://github.com/HanaaGhazzi/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Markdown is intended to be as easy-to-read and easy-to-write as is feasible.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.*
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+1.
+### Headings
+*To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header).*
+  
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+2.
+### Bold
+To bold text, add two ( ** ) or ( __ ) before and after a word or phrase. To bold the middle of a word for emphasis
 
-1. Numbered
-2. List
+**BOLD**
 
-**Bold** and _Italic_ and `Code` text
+3.
+### _Italic_
 
-[Link](url) and ![Image](src)
-```
+To italicize text, add one ( * ) or ( _ )  before and after a word or phrase.
+ _ITALIC_ 
+ 
+ 
+4.
+### LINK
+To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+my favorite social media network is [Facebook](https://ar-ar.facebook.com/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HanaaGhazzi/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5.
+### LISTs
+You can nest an unordered list in an ordered list, or vice versa.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. First item
+2. Second item
+3. Third item
+  - Indented item
+  - Indented item
+4. Fourth item
