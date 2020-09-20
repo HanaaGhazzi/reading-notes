@@ -28,7 +28,7 @@ Use the word “yet.”
 ```
 
 
-## I recommend the book to you :)
+## I recommend you to read this book  :)
 [Growth Mindset](https://www.free-ebooks.net/self-improvement/Growth-Mindset-The-Door-to-Achieving-More/pdf?dl&preview?dl&preview)
 
 
