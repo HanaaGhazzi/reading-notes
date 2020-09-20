@@ -34,7 +34,7 @@ my favorite social media network is [Facebook](https://ar-ar.facebook.com/)
 
 
 
-### LISTs
+### LISTS
 You can nest an unordered list in an ordered list, or vice versa.
 
 1. First item
