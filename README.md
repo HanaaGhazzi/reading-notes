@@ -18,7 +18,8 @@
 
 
 ```
-In one world, effort is a bad thing. It like failure, means you’re not smart or talented. If you were, you wouldn’t need effort.
+In one world, effort is a bad thing. It like failure, means you’re not smart or talented. 
+If you were, you wouldn’t need effort.
 In the other world, effort is what makes you smart or talented.
 
 The brain is like a muscle that needs to be worked out, just like the body.
