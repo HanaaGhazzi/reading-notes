@@ -2,7 +2,7 @@
 
 *People with a growth mindset feel their skills and intelligence can be improved with effort and persistence*
 
-**What are characteristics of growth mindset ?**
+**What are characteristics of people with growth mindset ?**
 
 1. embrace challenges
 2. persist through obstacles
@@ -27,7 +27,7 @@ Use the word “yet.”
 
 
 
-##I recommend the book to you :)
+## I recommend the book to you :)
 [Growth Mindset](https://www.free-ebooks.net/self-improvement/Growth-Mindset-The-Door-to-Achieving-More/pdf?dl&preview?dl&preview)
 
 
