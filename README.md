@@ -1,9 +1,9 @@
 # reading-notes
 
-
+HELLO! My name is Hana'a Al-Ghazzi 
+I'm pharmicst, I have passion for coding
+You are currently on the homepage, this will help you find all the notes and information needed for Software Development.
 **the project has been done by Hanaa Al-Ghazzi**
-
-
 
 
 | Subject         |      Link     |
