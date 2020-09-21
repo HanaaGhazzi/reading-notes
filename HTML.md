@@ -12,7 +12,7 @@ __HTML is the universal markup language for the Web. HTML lets you format text, 
 
 # Applications of HTML
 
-1. Web pages development
+1. Web pages developments
 2. Internet Navigation
 3. Offline support
 4. Game development
