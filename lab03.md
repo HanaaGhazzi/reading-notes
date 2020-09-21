@@ -7,7 +7,7 @@
 
 | Subject         |      Link     |
 | -------------   | ------------- |
-| Getting Started | [get](https://hanaaghazzi.github.io/reading-notes/ |
+| Getting Started | [get](/mnt/c/Users/Student/reading-notes/Getting.md) |
 |  Setting up   | [set](/mnt/c/Users/Student/reading-notes/setting.md)  |
 |    Workflow   | [work](/mnt/c/Users/Student/reading-notes/work.md)  |
 |  Remote  | [remote](/mnt/c/Users/Student/reading-notes/remote.md)  |
