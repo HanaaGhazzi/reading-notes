@@ -5,19 +5,9 @@
 
 __HTML is the universal markup language for the Web. HTML lets you format text, add graphics, create links, input forms, frames and tables, etc., and save it all in a text file that any browser can read and display.__
 
-**Good Morning** using HTML.
+**Hello World ! using HTML.**
 
-
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>This is document title</title>
-   </head>	
-   <body>
-      <h1>This is a heading</h1>
-      <p> Good Morning </p>
-   </body>	
-</html>
+![Hello World!](https://actualwizard.com/wp-content/uploads/2020/04/hello-world-html-tutorial.png)
 
 
 # Applications of HTML
