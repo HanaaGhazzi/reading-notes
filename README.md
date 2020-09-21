@@ -8,7 +8,7 @@
 
 | Subject         |      Link     |
 | -------------   | ------------- |
-| Markdown | [Mark](/mnt/c/Users/Student/reading-notes/Getting.md) |
-|  Growth Mindset   | [Growrh](/mnt/c/Users/Student/reading-notes/setting.md)  |
-|    Githup  | [Git](/mnt/c/Users/Student/reading-notes/work.md)  |
-|  html | [html](/mnt/c/Users/Student/reading-notes/remote.md)  |
+| Markdown | [Mark](https://hanaaghazzi.github.io/reading-notes/markdown) |
+|  Growth Mindset   | [Growrh](https://hanaaghazzi.github.io/reading-notes/Growth)  |
+|    Githup  | [Git](https://hanaaghazzi.github.io/reading-notes/read03)  |
+|  html | [html](https://hanaaghazzi.github.io/reading-notes/HTML)  |
