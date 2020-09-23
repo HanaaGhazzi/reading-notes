@@ -6,13 +6,13 @@
 
 _Comparison operators are used to compare two values:_
 
-![comprison](C:\Users\Student\Desktop\compression operators.PNG)
+![comprison]("../images/compression.PNG")
 
 ## Java Logical Operators
 
 _Logical operators are used to determine the logic between variables or values:_
 
-![logical](C:\Users\Student\Desktop\logical.PNG)
+![logical]("../images/logical.PNG")
 
 # LOOPS
 
