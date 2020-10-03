@@ -56,7 +56,7 @@
 
 ## HTML, CSS AND JS: 
 
-![WEB PAGE](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr4CwPJBt7k5vWMlRwFB_-3uf5PFmAjzga8g&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQr4CwPJBt7k5vWMlRwFB_-3uf5PFmAjzga8g&usqp=CAU)
 
 
 
