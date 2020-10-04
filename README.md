@@ -1,4 +1,4 @@
-# reading-notes
+# Code 201 Reading Notes
 
 HELLO! My name is Hana'a Al-Ghazzi 
 I'm pharmicst, I have passion for coding
@@ -12,3 +12,9 @@ You are currently on the homepage, this will help you find all the notes and inf
 |  Growth Mindset   | [Growrh](https://hanaaghazzi.github.io/reading-notes/Growth)  |
 |    Githup  | [Git](https://hanaaghazzi.github.io/reading-notes/read03)  |
 |  html | [html](https://hanaaghazzi.github.io/reading-notes/HTML)  |
+| Workflow | [workflow](https://hanaaghazzi.github.io/reading-notes/work)
+| Java Operators | [Operators](https://hanaaghazzi.github.io/reading-notes/read08) |
+| JavaScript | [Java](https://hanaaghazzi.github.io/reading-notes/read07) |
+|COMPUTER WORK | [COMPUTER WORK](https://hanaaghazzi.github.io/reading-notes/read06b) |
+| COLOR | [COLOR](https://hanaaghazzi.github.io/reading-notes/color) |
+| Summary | [html&js](https://hanaaghazzi.github.io/reading-notes/class01) |
